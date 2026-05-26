@@ -1,26 +1,29 @@
-Engineering materials
-====
+# Content
 
-This repository contains engineering materials of a self-driven vehicle's model participating in the WRO Future Engineers competition in the season 2022.
+This repository is organized into several folders, each containing a specific set of project files and documentation:
 
-## Content
+- **`t-photos/`** – Includes two team photographs: one official image and one creative team photo.
+  
+- **`v-photos/`** – Contains six detailed photographs of the vehicle, showing every side: front, back, left, right, top, and bottom.
 
-* `t-photos` contains 2 photos of the team (an official one and one funny photo with all team members)
-* `v-photos` contains 6 photos of the vehicle (from every side, from top and bottom)
-* `video` contains the video.md file with the link to a video where driving demonstration exists
-* `schemes` contains one or several schematic diagrams in form of JPEG, PNG or PDF of the electromechanical components illustrating all the elements (electronic components and motors) used in the vehicle and how they connect to each other.
-* `src` contains code of control software for all components which were programmed to participate in the competition
-* `models` is for the files for models used by 3D printers, laser cutting machines and CNC machines to produce the vehicle elements. If there is nothing to add to this location, the directory can be removed.
-* `other` is for other files which can be used to understand how to prepare the vehicle for the competition. It may include documentation how to connect to a SBC/SBM and upload files there, datasets, hardware specifications, communication protocols descriptions etc. If there is nothing to add to this location, the directory can be removed.
+- **`video/`** – Contains a file named `video.md` that links to a demonstration video of the robot in motion.
+  
+- **`schemes/`** – Includes electromechanical schematics (in PNG, JPEG, or PDF format). These diagrams illustrate the complete wiring setup including sensors, motors, controllers, and power management.
 
-## Introduction
+- **`src/`** – Contains all source code required to operate the vehicle. The code is written in _ and includes modular functions for sensor reading, motor control, decision logic, lap detection, and more.
 
-_This part must be filled by participants with the technical clarifications about the code: which modules the code consists of, how they are related to the electromechanical components of the vehicle, and what is the process to build/compile/upload the code to the vehicle’s controllers._
+- **`models/`** – Includes any 3D models (e.g., `.stl`, `.dxf`) used to fabricate physical parts of the robot. These files are compatible with 3D printing, CNC machining, or laser cutting. *(This folder can be removed if no files are provided.)*
 
-## How to prepare the repo based on the template
+- **`other/`** – Supplementary documentation during the development of the project.
 
-_Remove this section before the first commit to the repository_
+---
 
-1. Clone this repo by using the `git clone` functionality.
-2. Remove `.git` directory
-3. [Initialize a new public repository on GitHub](https://github.com/new) by following instructions from "create a new repository on the command line" section (appeared after pressing "Create repository" button).
+# Introduction
+
+This project was developed as part of the WRO/PRO Future Engineers 2026 challenge, which tasked student teams with designing and building an autonomous ground vehicle capable of navigating a defined arena, identifying obstacles, completing laps, and performing an automated parking task.
+
+Our solution uses a chassis built from LEGO Mindstorms components, providing a durable, modular, and easily adjustable structure for rapid prototyping and testing. The vehicle is powered by EV3 servo and DC motors for precise steering and controlled movement, while EV3 ultrasonic sensors and an EV3 color sensor are used to detect obstacles, measure distances, and identify environmental markers within the arena. A Husky AI Lens camera provides real-time visual detection and object recognition, enabling the robot to respond intelligently to track obstacles and navigation challenges.
+
+The system follows a modular hardware and software design, allowing reliable sensor integration, maintainable code structure, and consistent autonomous performance throughout testing and competition.
+
+---
