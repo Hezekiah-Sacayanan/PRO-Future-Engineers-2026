@@ -9,8 +9,6 @@ This folder contains the electromechanical schematics used in the construction o
 
 This diagram illustrates the connections between the LEGO EV3 programmable brick and the various motors and sensors used by the robot, including the steering motor, drive motor, gyro sensor, and ultrasonic sensors.
 
-### Diagram
-
 ![LEGO EV3 Mindstorms Programmable Brick Connections](EV3_Connections.png)
 
 *Figure 1. Connection diagram of the LEGO EV3 programmable brick and its connected components.*
@@ -20,8 +18,6 @@ This diagram illustrates the connections between the LEGO EV3 programmable brick
 ## HUSKYLENS AI CAMERA CONNECTIONS
 
 This diagram illustrates the electrical and communication connections used to integrate the HuskyLens AI camera with the EV3-based system. It includes the custom adapter and external power supply used to support the camera's operation.
-
-### Diagram
 
 ![HuskyLens AI Camera Connections](Huskylens_Connections.png)
 
