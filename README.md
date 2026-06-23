@@ -8,7 +8,7 @@ This repository is organized into several folders, each containing a specific se
 
 - **`video/`** – Contains a file named `video.md` that links to a demonstration video of the robot in motion.
   
-- **`schemes/`** – Includes electromechanical schematics (in PNG, JPEG, or PDF format). These diagrams illustrate the complete wiring setup including sensors, motors, controllers, and power management.
+- **`schemes/`** – Includes electromechanical schematics (in PDF format). These diagrams illustrate the complete wiring setup including sensors, motors, controllers, and power management.
 
 - **`src/`** – Contains all source code required to operate the vehicle. The code is written in _ and includes modular functions for sensor reading, motor control, decision logic, lap detection, and more.
 
