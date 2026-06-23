@@ -50,6 +50,7 @@ This project was developed as part of the WRO/PRO Future Engineers 2026 challeng
 Our solution uses a chassis built from LEGO Mindstorms components, providing a durable, modular, and easily adjustable structure for rapid prototyping and testing. The vehicle is powered by an EV3 servo motor for precise steering and an NXT motor for controlled movement, while EV3 ultrasonic sensors are used to measure distances of the walls within the arena. A Husky AI Lens camera provides real-time visual detection and object recognition, enabling the robot to respond intelligently to track obstacles and navigation challenges.
 
 The system follows a modular hardware and software design, allowing reliable sensor integration, maintainable code structure, and consistent autonomous performance throughout testing and competition.
+
 ---
 
 # PSHS-CARC Future Engineers Team
