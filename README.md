@@ -87,8 +87,6 @@ This section includes six photographs showing the robot from different views: fr
 
 Sensors and processing components are strategically positioned to maximize detection accuracy while maintaining a balanced center of gravity. The EV3 gyro sensor helps the robot maintain orientation, while the left and right ultrasonic sensors provide distance feedback from the arena walls. The HuskyLens AI camera is mounted to support obstacle detection during the traffic block avoidance task.
 
-A modular design approach was adopted to simplify component replacement and future upgrades. Major subsystems—including steering, propulsion, sensing, and computation—can be accessed independently for maintenance and testing.
-
 ## 1.2 Chassis Design and Construction
 
 The chassis is constructed primarily from LEGO Mindstorms components, providing a lightweight yet durable framework. The modular nature of the LEGO system allowed rapid prototyping and easy adjustment of component placement throughout development.
