@@ -1,7 +1,7 @@
 Electromechanical diagrams
 ====
 
-This folder contains the electromechanical schematics used in the construction of our WRO/PRO Future Engineers 2026 robot.
+This folder contains the electromechanical schematics used in the construction of our PRO Future Engineers 2026 robot.
 
 ---
 
