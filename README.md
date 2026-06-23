@@ -16,6 +16,12 @@ This repository is organized into several folders, each containing a specific se
 
 ---
 
+# Introduction
+
+This document presents our robot for the PRO Future Engineers 2026 challenge. The robot is designed to autonomously navigate the arena, detect obstacles, complete laps, and perform the required parking task.
+
+Our robot uses an EV3 brick for control, an EV3 gyro sensor for heading, two EV3 ultrasonic sensors for wall distance measurement, an EV3 servo motor for steering, an NXT motor for driving, and a HuskyLens AI camera for obstacle detection in the traffic block round.
+
 ## Table of Contents
 
 * [Introduction](#introduction)
@@ -24,12 +30,22 @@ This repository is organized into several folders, each containing a specific se
 
   * [1.1 Overall Robot Design](#11-overall-robot-design)
   * [1.2 Chassis Design and Construction](#12-chassis-design-and-construction)
+
+    * [1.2.1 Front Wheel Assembly](#121-front-wheel-assembly)
+    * [1.2.2 Rear Wheel Assembly](#122-rear-wheel-assembly)
+    * [1.2.3 Rear Differential System](#123-rear-differential-system)
 * [2. Power and Sensor Systems](#2-power-and-sensor-systems)
 
   * [2.1 Power Management System](#21-power-management-system)
+
+    * [2.1.1 EV3 Power Distribution](#211-ev3-power-distribution)
+    * [2.1.2 HuskyLens Power Supply](#212-huskylens-power-supply)
   * [2.2 Sensor Configuration and Integration](#22-sensor-configuration-and-integration)
-  * [2.3 Bill of Materials (BOM)](#23-bill-of-materials-bom)
-  * [2.4 Wiring and Electrical Layout](#24-wiring-and-electrical-layout)
+
+    * [2.2.1 EV3 Gyro Sensor](#221-ev3-gyro-sensor)
+    * [2.2.2 EV3 Ultrasonic Sensors](#222-ev3-ultrasonic-sensors)
+    * [2.2.3 HuskyLens AI Camera](#223-huskylens-ai-camera)
+  * [2.3 Wiring and Electrical Layout](#23-wiring-and-electrical-layout)
 * [3. Navigation and Obstacle Management](#3-navigation-and-obstacle-management)
 
   * [3.1 Open Challenge Strategy](#31-open-challenge-strategy)
@@ -40,14 +56,6 @@ This repository is organized into several folders, each containing a specific se
   * [5.1 Hardware Improvements](#51-hardware-improvements)
   * [5.2 Software Improvements](#52-software-improvements)
 * [Credits and Acknowledgments](#credits-and-acknowledgments)
-
----
-
-# Introduction
-
-This document presents our robot for the WRO/PRO Future Engineers 2026 challenge. The robot is designed to autonomously navigate the arena, detect obstacles, complete laps, and perform the required parking task.
-
-Our robot uses an EV3 brick for control, an EV3 gyro sensor for heading, two EV3 ultrasonic sensors for wall distance measurement, an EV3 servo motor for steering, an NXT motor for driving, and a HuskyLens AI camera for obstacle detection in the traffic block round.
 
 ---
 
