@@ -22,7 +22,7 @@ This repository is organized into several folders, each containing a specific se
 
 This project was developed as part of the WRO/PRO Future Engineers 2026 challenge, which tasked student teams with designing and building an autonomous ground vehicle capable of navigating a defined arena, identifying obstacles, completing laps, and performing an automated parking task.
 
-Our solution uses a chassis built from LEGO Mindstorms components, providing a durable, modular, and easily adjustable structure for rapid prototyping and testing. The vehicle is powered by EV3 servo and DC motors for precise steering and controlled movement, while EV3 ultrasonic sensors and an EV3 color sensor are used to detect obstacles, measure distances, and identify environmental markers within the arena. A Husky AI Lens camera provides real-time visual detection and object recognition, enabling the robot to respond intelligently to track obstacles and navigation challenges.
+Our solution uses a chassis built from LEGO Mindstorms components, providing a durable, modular, and easily adjustable structure for rapid prototyping and testing. The vehicle is powered by an EV3 servo motor for precise steering and an NXT motor for controlled movement, while EV3 ultrasonic sensors are used to measure distances of the walls within the arena. A Husky AI Lens camera provides real-time visual detection and object recognition, enabling the robot to respond intelligently to track obstacles and navigation challenges.
 
 The system follows a modular hardware and software design, allowing reliable sensor integration, maintainable code structure, and consistent autonomous performance throughout testing and competition.
 
