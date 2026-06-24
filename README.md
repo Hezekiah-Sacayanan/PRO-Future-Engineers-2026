@@ -135,7 +135,7 @@ The EV3 brick serves as the main controller of the robot and provides power to t
 
 Proper cable management were implemented to reduce interference and make the system easier to maintain and troubleshoot.
 
-<img width="600" alt="EV3_Power_Distribution" src="https://github.com/user-attachments/assets/8a901615-b6ba-4807-8ee2-905084310e66" />
+<img width="600" alt="EV3_Power_Distribution" src="https://github.com/user-attachments/assets/6e43e23e-c6a5-4e6a-8ce2-ab4614a99d2d" />
 
 ### 2.1.2 HuskyLens Power Supply
 
