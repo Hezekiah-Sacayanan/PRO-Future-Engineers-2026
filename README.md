@@ -251,6 +251,6 @@ Future work may involve more advanced control strategies and additional sensor f
 
 # Credits and Acknowledgments
 
-The PSHS-CARC Future Engineers Team would like to thank our coach for the continuous guidance and support throughout the development of this project. We are also grateful to our school for allowing us to use its facilities and LEGO kits, which were essential to the construction and testing of our robot. We would also like to thank our parents for their encouragement, patience, and unwavering support throughout the entire process.
+The PSHS-CARC Future Engineers Team would like to thank our coach for her continuous guidance and support throughout the development of this project. We are also grateful to our school for allowing us to use its facilities and LEGO kits, which were essential to the construction and testing of our robot. We would also like to thank our parents for their encouragement, patience, and unwavering support throughout the entire process.
 
 Their help and support played an important role in the successful completion of the vehicle and its participation in the competition.
