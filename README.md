@@ -101,7 +101,7 @@ Due to limited materials, the team had to improvise using the components availab
 
 To solve this, each front wheel was rebuilt by combining three solid wheel pieces into one rigid wheel assembly. The front wheels were also made smaller than the rear wheels so that steering and turning would be better. This smaller size helped reduce steering resistance and improved the robot's turning response.
 
-<img width="800" alt="Front_Wheels" src="https://github.com/user-attachments/assets/9181f83e-aa1d-4879-9a72-039f0ec8318d" />
+<img width="600" alt="Front_Wheels" src="https://github.com/user-attachments/assets/9181f83e-aa1d-4879-9a72-039f0ec8318d" />
 
 ### 1.2.2 Rear Wheel Assembly
 
@@ -109,7 +109,7 @@ The rear wheels also started as soft wheels, and this caused another bending iss
 
 This was a practical compromise based on the materials we had available. A possible future improvement would be to test tape or another traction material as a replacement for the missing rubber tread, although this has not yet been verified.
 
-<img width="800" alt="Rear_Wheels" src="https://github.com/user-attachments/assets/d2537e87-cf5b-4e32-a1fb-e36e8a3e6799" />
+<img width="600" alt="Rear_Wheels" src="https://github.com/user-attachments/assets/d2537e87-cf5b-4e32-a1fb-e36e8a3e6799" />
 
 ### 1.2.3 Rear Differential System
 
@@ -117,7 +117,7 @@ Aside from the wheel modifications, the robot also includes a differential syste
 
 The differential system improves stability during cornering and supports more efficient motion when the robot changes direction. This is especially useful for maintaining consistent movement in both the open challenge and obstacle challenge rounds.
 
-<img width="800" alt="Differential" src="https://github.com/user-attachments/assets/6d3efc22-b9f9-4c9c-945c-c99f66c26c9a" />
+<img width="600" alt="Differential" src="https://github.com/user-attachments/assets/6d3efc22-b9f9-4c9c-945c-c99f66c26c9a" />
 
 ---
 
@@ -155,7 +155,7 @@ The EV3 gyro sensor is used to measure rotation and heading changes, helping the
 
 By monitoring heading changes, the gyro sensor supports more consistent navigation and improves the robot's overall control.
 
-<img width="800" alt="Gyro" src="https://github.com/user-attachments/assets/4a2ac641-1d06-4c78-847f-e99a0fc11e93" />
+<img width="600" alt="Gyro" src="https://github.com/user-attachments/assets/4a2ac641-1d06-4c78-847f-e99a0fc11e93" />
 
 ### 2.2.2 EV3 Ultrasonic Sensors
 
@@ -163,7 +163,7 @@ The two EV3 ultrasonic sensors, placed on the left and right sides, are used to 
 
 The distance data from both sensors is used to make steering corrections in real time, allowing the robot to stay aligned with the arena walls during movement.
 
-<img width="600" alt="Right_Ultrasonic" src="https://github.com/user-attachments/assets/1fad4b0f-a743-45b9-ad2b-8dd078d19ea5" /> <img width="600" alt="Left_Ultrasonic" src="https://github.com/user-attachments/assets/bc1b4aee-4e92-458d-ad9b-6bf90ff28328" />
+<img width="400" alt="Right_Ultrasonic" src="https://github.com/user-attachments/assets/1fad4b0f-a743-45b9-ad2b-8dd078d19ea5" /> <img width="400" alt="Left_Ultrasonic" src="https://github.com/user-attachments/assets/bc1b4aee-4e92-458d-ad9b-6bf90ff28328" />
 
 ### 2.2.3 HuskyLens AI Camera
 
@@ -171,7 +171,7 @@ For the obstacle round, the HuskyLens AI camera performs object recognition to d
 
 The HuskyLens works together with the ultrasonic sensors to improve obstacle detection and decision-making reliability under varying conditions.
 
-<img width="800" alt="Husky_Lens_Camera" src="https://github.com/user-attachments/assets/fc8cb1cf-69a4-4a09-a7bd-9da739cb4047" />
+<img width="600" alt="Husky_Lens_Camera" src="https://github.com/user-attachments/assets/fc8cb1cf-69a4-4a09-a7bd-9da739cb4047" />
 
 ## 2.3 Wiring and Electrical Layout
 
@@ -181,7 +181,7 @@ To connect the HuskyLens AI camera to the EV3 brick, the team had to create its 
 
 A complete wiring diagram is included below to illustrate all electrical connections used in the robot.
 
-<img width="600" alt="Huskylens_Connections" src="https://github.com/user-attachments/assets/ea96983b-1bb9-4f57-bedb-aa9cfa3dfebf" /> <img width="600" alt="EV3_Connections" src="https://github.com/user-attachments/assets/d78fb1b3-459a-4f85-97db-925cf9ed09a9" />
+<img width="400" alt="Huskylens_Connections" src="https://github.com/user-attachments/assets/ea96983b-1bb9-4f57-bedb-aa9cfa3dfebf" /> <img width="400" alt="EV3_Connections" src="https://github.com/user-attachments/assets/d78fb1b3-459a-4f85-97db-925cf9ed09a9" />
 
 ---
 
