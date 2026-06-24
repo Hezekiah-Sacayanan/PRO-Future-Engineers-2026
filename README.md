@@ -75,17 +75,17 @@ The vehicle follows a four-wheeled rear-wheel-drive configuration with front-whe
 
 This section includes six photographs showing the robot from different views: front, back, left side, right side, top, and bottom view.
 
-[Front view photo to be inserted here]
+| <img src="v-photos/front.jpg" width="500"> | <img src="v-photos/back.jpg" width="500"> |
+| :----------------------------------------: | :---------------------------------------: |
+|                Front Side                  |                 Back Side                 |
 
-[Back view photo to be inserted here]
+| <img src="v-photos/left.jpg" width="500"> | <img src="v-photos/right.jpg" width="500"> |
+| :---------------------------------------: | :----------------------------------------: |
+|                Left Side                  |                 Right Side                 |
 
-[Left side view photo to be inserted here]
-
-[Right side view photo to be inserted here]
-
-[Top view photo to be inserted here]
-
-[Bottom view photo to be inserted here]
+| <img src="v-photos/top.jpg" width="500"> | <img src="v-photos/bottom.jpg" width="500"> |
+| :--------------------------------------: | :-----------------------------------------: |
+|                Top Side                  |                  Bottom Side                |
 
 Sensors and processing components are strategically positioned to maximize detection accuracy while maintaining a balanced center of gravity. The EV3 gyro sensor helps the robot maintain orientation, while the left and right ultrasonic sensors provide distance feedback from the arena walls. The HuskyLens AI camera is mounted to support obstacle detection during the traffic block avoidance task.
 
