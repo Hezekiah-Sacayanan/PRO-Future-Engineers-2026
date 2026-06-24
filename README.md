@@ -12,8 +12,6 @@ This repository is organized into several folders, each containing a specific se
 
 - **`src/`** – Contains all source code required to operate the vehicle. The code is written in _ and includes modular functions for sensor reading, motor control, decision logic, lap detection, and more.
 
-- **`other/`** – Supplementary documentation during the development of the project.
-
 ---
 
 # Introduction
