@@ -127,13 +127,13 @@ The robot relies on an integrated network of electrical and sensing components t
 
 ## 2.1 Power Management System
 
-A centralized power system supplies energy to the EV3 brick, motors, sensors, and vision system. The power configuration was designed to provide stable operation throughout an entire competition run while minimizing electrical noise and voltage fluctuations.
+A centralized power system supplies energy to the EV3 brick, motors, sensors, and vision system. This provides a stable operation throughout an entire competition run while minimizing electrical noise and voltage fluctuations.
 
 ### 2.1.1 EV3 Power Distribution
 
-The EV3 brick serves as the main controller of the robot and provides power to the EV3-based components, including the servo motor, ultrasonic sensors, and gyro sensor. Stable power distribution is important because the robot must operate continuously and reliably during autonomous runs.
+The EV3 brick serves as the main controller of the robot and provides power to the EV3-based components, including the servo motor, ultrasonic sensors, and gyro sensor. 
 
-Proper cable management and power routing were implemented to reduce interference and make the system easier to maintain and troubleshoot.
+Proper cable management were implemented to reduce interference and make the system easier to maintain and troubleshoot.
 
 [EV3 power distribution photo to be inserted here]
 
