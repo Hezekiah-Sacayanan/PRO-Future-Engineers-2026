@@ -1,7 +1,7 @@
 Vehicle's photos
 ====
 
-This folder contains the six required photographs of the robot used in the WRO/PRO Future Engineers 2026 competition. The images document the final vehicle configuration from all major perspectives and provide a complete overview of its mechanical structure and component placement.
+This folder contains the six required photographs of the robot used in the PRO Future Engineers 2026 competition. The images document the final vehicle configuration from all major perspectives and provide a complete overview of its mechanical structure and component placement.
 
 | View       | Image                              |
 | ---------- | ---------------------------------- |
