@@ -135,7 +135,7 @@ The EV3 brick serves as the main controller of the robot and provides power to t
 
 Proper cable management were implemented to reduce interference and make the system easier to maintain and troubleshoot.
 
-[EV3 power distribution photo to be inserted here]
+<img width="800" alt="EV3_Power_Distribution" src="https://github.com/user-attachments/assets/22e5da06-7886-4668-ab9d-3f35873a1d72" />
 
 ### 2.1.2 HuskyLens Power Supply
 
@@ -143,7 +143,7 @@ The HuskyLens AI camera required a separate power supply from the EV3 system. To
 
 This separate power setup allowed the HuskyLens to function reliably while remaining integrated with the rest of the robot's control system.
 
-[HuskyLens power supply photo to be inserted here]
+<img width="800" alt="Husky_Lens_Power_Distribution" src="https://github.com/user-attachments/assets/bf6d472b-2ebc-44f5-9a26-95d659388acc" />
 
 ## 2.2 Sensor Configuration and Integration
 
