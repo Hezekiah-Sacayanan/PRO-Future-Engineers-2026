@@ -181,7 +181,7 @@ To connect the HuskyLens AI camera to the EV3 brick, the team had to create its 
 
 A complete wiring diagram is included below to illustrate all electrical connections used in the robot.
 
-<img width="400" alt="Huskylens_Connections" src="https://github.com/user-attachments/assets/ea96983b-1bb9-4f57-bedb-aa9cfa3dfebf" /> <img width="400" alt="EV3_Connections" src="https://github.com/user-attachments/assets/d78fb1b3-459a-4f85-97db-925cf9ed09a9" />
+<img width="400" alt="EV3_Connections" src="https://github.com/user-attachments/assets/d78fb1b3-459a-4f85-97db-925cf9ed09a9" /> <img width="400" alt="Huskylens_Connections" src="https://github.com/user-attachments/assets/ea96983b-1bb9-4f57-bedb-aa9cfa3dfebf" />
 
 ---
 
