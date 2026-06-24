@@ -1,5 +1,7 @@
 Video
 ====
 
-This directory must contain the video.md file with a URL to YouTube (should be either public or accessible by link) showing the vehicle driving autonomously.
-That part of the video where driving demonstration exists must be at least 30 seconds in length.
+This folder contains the demonstration video of the robot used in the PRO Future Engineers 2026 competition.
+
+The video can be accessed through the link provided in `video.md`.
+
