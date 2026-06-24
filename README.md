@@ -10,7 +10,7 @@ This repository is organized into several folders, each containing a specific se
   
 - **`schemes/`** – Includes electromechanical schematics (in PNG or PDF format). These diagrams illustrate the complete wiring setup including sensors, motors, controllers, and power management.
 
-- **`src/`** – Contains all source code required to operate the vehicle. The code is written in _ and includes modular functions for sensor reading, motor control, decision logic, lap detection, and more.
+- **`src/`** – Contains all source code required to operate the vehicle. The code is written in Python and includes modular functions for sensor reading, motor control, decision logic, lap detection, and more.
 
 ---
 
