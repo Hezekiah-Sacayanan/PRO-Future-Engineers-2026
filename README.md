@@ -61,7 +61,7 @@ Our robot uses an EV3 brick for control, an EV3 gyro sensor for heading, two EV3
 
 The PSHS-CARC Future Engineers Team is composed of students from the Philippine Science High School – Cordillera Administrative Region Campus. The team collaborated in all stages of the project, including research, mechanical construction, programming, testing, troubleshooting, and documentation.
 
-[Formal team photo to be inserted here] [Creative team photo to be inserted here]
+<img src="t-photos/official.jpg" width="600">
 
 ---
 
