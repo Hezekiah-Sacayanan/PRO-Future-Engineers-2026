@@ -247,12 +247,12 @@ Future improvements may include more suitable wheel materials, a more refined tr
 
 Software improvements focused on refining navigation algorithms, improving obstacle detection accuracy, and enhancing decision-making logic. Multiple revisions were implemented to improve consistency and reduce the effects of environmental variation.
 
-Future work may involve more advanced control strategies and additional sensor fusion techniques to further improve vehicle performance.
+Future work may involve more advanced control strategies and additional sensor fusion techniques for further improvement of the vehicle's performance.
 
 ---
 
 # Credits and Acknowledgments
 
-The PSHS-CARC Future Engineers Team would like to thank our coach for her continuous guidance and support throughout the development of this project. We are also grateful to our school for allowing us to use its facilities and LEGO kits, which were essential to the construction and testing of our robot. We would also like to thank our parents for their encouragement, patience, and unwavering support throughout the entire process.
+The PSHS-CARC Future Engineers Team would like to thank our coach for her continuous guidance and support throughout the development of this project. We are also grateful to our school for allowing us to use its facilities and LEGO kits, which were sufficient for the construction and testing of our robot. We would also like to thank our parents for their encouragement, patience, and unwavering support throughout the entire process.
 
 Their help and support played an important role in the successful completion of the vehicle and its participation in the competition.
