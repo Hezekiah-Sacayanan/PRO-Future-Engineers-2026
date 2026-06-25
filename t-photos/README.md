@@ -9,7 +9,7 @@ This folder contains the two required team photographs for the PRO Future Engine
 
 Team Members (Left to Right):
 
-* name
-* name
-* name
-* name
+* Reiven Kyle Macaranas
+* Hezekiah Chriel Sacayanan
+* Ma'am Chesedel Jobien Limlingan
+* Aiden Gabriel Mayo
